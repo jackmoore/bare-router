@@ -1,0 +1,19 @@
+{
+  "name": "bare-router",
+  "version": "1.0.0",
+  "description": "A minimal unopinionated router. Matches a pathname against a map of routes, returning the matched handler and params.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jackmoore/bare-router.git"
+  },
+  "homepage": "https://github.com/jackmoore/bare-router",
+  "keywords": [
+    "router",
+    "routing",
+    "spa",
+    "single-page-application"
+  ],
+  "author": "jacklmoore",
+  "license": "MIT"
+}
