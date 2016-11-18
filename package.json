@@ -1,6 +1,9 @@
 {
   "name": "bare-router",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "dependencies": {
+    "path-to-regexp": "^1.5.3"
+  },
   "description": "A minimal unopinionated router. Matches a pathname against a map of routes, returning the matched handler and params.",
   "main": "index.js",
   "repository": {
